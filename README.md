@@ -1,12 +1,12 @@
-# 👋 Salut, moi c'est Alex Fioretzi--Ysabel
+👋 Salut, moi c'est Alex Fioretzi-Ysabel
 
 ## 🎓 À propos de moi
-Je suis étudiant en Informatique à l'IUT de Bordeaux et je suis passionné par le développement web et d'applications. Actuellement à la recherche d'un stage pour appliquer mes compétences et découvrir de nouvelles technologies, je m'intéresse particulièrement au développement front-end et back-end pour le web et les applications.
+Je suis étudiant en informatique à l'IUT de Bordeaux, passionné par le développement web et le développement d'applications. Actuellement à la recherche d'un stage pour appliquer mes compétences et découvrir de nouvelles technologies, je m'intéresse particulièrement au développement front-end et back-end pour le web et les applications.
 
 ## 👀 Intérêts
 - **Développement Web :** Créer des sites et des applications web interactifs avec HTML, CSS, JavaScript et PHP.
 - **Développement d'Applications :** Conception et développement d'applications natives en Java et C#.
-- **Optimisation des Interfaces Utilisateur :** J'aime travailler sur des interfaces utilisateurs simples et efficaces qui améliorent l'expérience utilisateur.
+- **Optimisation des Interfaces Utilisateur :** J'aime travailler sur des interfaces utilisateur simples et efficaces qui améliorent l'expérience utilisateur.
 
 ## 🌱 Compétences et Technologies
 - **Langages :** HTML, CSS, PHP, JavaScript, Python, C, Java, C#, SQL
@@ -19,11 +19,12 @@ Je continue de perfectionner mes compétences pour être à jour sur les derniè
 ## 💼 Objectifs de collaboration
 Je cherche à collaborer sur :
 - Des projets de développement web complets (front-end et back-end)
-- Des applications pour toutes plateformes pour m'améliorer et décrouvrir de nouvelles choses
+- Des applications multiplateformes pour m'améliorer et découvrir de nouvelles choses
 
 ## 📫 Contact
 N'hésitez pas à me contacter si vous êtes intéressé(e) :
-- LinkedIn : https://www.linkedin.com/in/alex-fioretzi-ysabel/
+- LinkedIn : [https://www.linkedin.com/in/alex-fioretzi-ysabel/](https://www.linkedin.com/in/alex-fioretzi-ysabel/)
 - Email : alex.fioretzi74@gmail.com
-  
+
 Merci d'avoir visité mon profil GitHub ! 😊
+
